@@ -1,0 +1,7 @@
+__pycache__/
+migrations/
+env/
+node_modules/
+manage.py
+db.sqlite3
+requirements.txt
